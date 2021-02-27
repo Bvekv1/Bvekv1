@@ -1,10 +1,7 @@
 ### Hi there, I'm Bibek - aka [Bibek Dhami][website] 👋
 
 ## I'm a Developer and Student!
-- 🔭 I’m currently working on a College Project
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute  to Open Source projects
-- ⚡ Fun fact: I love to watch mythological series and Sci-fi
 
 ### Connect with me:
 [<img align="left" alt="bvek | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
