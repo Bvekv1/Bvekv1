@@ -1,7 +1,7 @@
 ### Hi there, I'm Bibek - aka [Bibek Dhami][website] 👋
 
 ## I'm a Node.js Developer and Student!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React 🤣
 
 ### Connect with me:
 [<img align="left" alt="bvek | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
