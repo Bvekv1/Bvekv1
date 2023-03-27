@@ -1,6 +1,6 @@
 ### Hi there, I'm Bibek - aka [Bibek Dhami][website] 👋
 
-## I'm a Node.js Developer and Student!
+## I'm a Node.js Developer.
 - 🌱 I’m currently researching on course to pursue for master
 
 ### Connect with me:
